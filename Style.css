@@ -1,0 +1,30 @@
+header {
+  background-color: bisque;
+  text-align: center;
+  color: black;
+}
+img {
+  width: 410px;
+  height: 300px;
+}
+.Chips {
+  text-align: center;
+}
+td {
+  border: solid;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+button {
+  width: 120px;
+  height: 35px;
+  border-radius: 20px;
+  background-color: khaki;
+}
+input {
+  height: 20px;
+  width: 98px;
+}
