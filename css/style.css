@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 0vh;
+}
+
+.navbar-style {
+    box-shadow: 0 5px 10px #efefef;
+}
+
+.logo {
+    height: 48px;
+    padding: 2px 10px;
+}
+
+.icon-bar {
+    background: gray;
+}
+
+li a {
+    color: black;
+}
+
+p {
+    color: navy;
+    text-indent: 30px;
+}
+
+.banner-info,
+.banner-image {
+    margin: 30px 0;
+}
+
+.row {
+    margin-top: 20px;
+    border-style: thin;
+    border-radius: 15px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+.container_1 {
+    margin-left: 5%;
+    margin-right: 5%;
+}
